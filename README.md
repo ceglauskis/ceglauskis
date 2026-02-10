@@ -39,17 +39,6 @@ Currently, I am deepening my knowledge in backend architecture, databases, and s
 
 ---
 
-## GitHub Stats
-
-> These metrics are provided by a third-party service and may occasionally be unavailable.
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ceglauskis&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceglauskis&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maikonbryan/)
